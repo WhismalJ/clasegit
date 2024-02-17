@@ -8,3 +8,12 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
 }
+
+#container {
+    width: 1440px;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: bisque;
+}
